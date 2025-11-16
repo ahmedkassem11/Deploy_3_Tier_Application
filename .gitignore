@@ -1,0 +1,4 @@
+/proxy/certs
+/dbdata
+node_modules
+*.log
